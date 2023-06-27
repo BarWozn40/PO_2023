@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="schemas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../poi-src-5.2.3-20220909-5.2.3/poi-ooxml-full/src/main/xmlschema/org/apache/poi/schemas/OpenPackagingConventions-XMLSchema.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../poi-src-5.2.3-20220909-5.2.3/poi-ooxml-full/src/main/xmlschema/org/apache/poi/schemas/OfficeOpenXML-XMLSchema-Transitional.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
